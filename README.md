@@ -2,6 +2,11 @@
 ## first level testing
 ### second level testing
 #### third level testing
+
+This is a <sub>subscript</sub> text
+
+This is a <sup>superscript</sup> text
+
 **This is bold text**
 _Checking Italics_
 ~~this was mistaken test~~
